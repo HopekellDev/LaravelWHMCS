@@ -43,8 +43,9 @@ php artisan vendor:publish --provider="HopekellDev\LaravelWHMCS\WHMCSServiceProv
 ## Set your WHMCS credentials in your .env file:
 
 ```bash
-WHMCS_USERNAME=your_whmcs_username
-WHMCS_PASSWORD=your_whmcs_password
+YOUR_WHMCS_API_URL=
+YOUR_API_IDENTIFIER=your_whmcs_username
+YOUR_API_SECRET=your_whmcs_password
 ```
 ## Now you can use the package in your Laravel application:
 ```bash
