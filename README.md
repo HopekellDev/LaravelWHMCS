@@ -2,10 +2,9 @@
 
 [![Latest Version](https://img.shields.io/packagist/v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravelwhmcs)
 [![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravelwhmcs)
-[![License](https://img.shields.io/packagist/l/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://github.com/HopekellDev/laravelwhmcs/blob/master/LICENCE)
+[![License](https://img.shields.io/github/license/HopekellDev/laravelwhmcs.svg?style=flat-square)](https://github.com/HopekellDev/laravelwhmcs/blob/master/LICENSE)
 [![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://php.net)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hopekelldev/laravelwhmcs/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hopekelldev/laravelwhmcs)
-
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/laravelwhmcs/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/laravelwhmcs/)
 
 A Laravel package for integrating with the WHMCS API.
 
