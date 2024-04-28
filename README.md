@@ -1,6 +1,6 @@
 # Laravel WHMCS
 
-[![Latest Version](https://img.shields.io/packagist/v/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
+[![Latest Version](https://img.shields.io/packagist/v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
 [![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
 [![License](https://img.shields.io/packagist/l/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://github.com/hopekelldev/laravel_whmcs/blob/main/LICENSE)
 [![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://php.net)
@@ -19,7 +19,7 @@ composer require hopekelldev/laravel_whmcs
 ## Publish the configuration file:
 
 ```bash
-php artisan vendor:publish --provider="HopekellDev\LaravelWHMCS\WhmcsServiceProvider" --tag="config"
+php artisan vendor:publish --provider="HopekellDev\LaravelWHMCS\WHMCSServiceProvider" --tag="config"
 ```
 
 ## Set your WHMCS credentials in your .env file:
@@ -30,10 +30,11 @@ WHMCS_PASSWORD=your_whmcs_password
 ```
 ## Now you can use the package in your Laravel application:
 ```bash
-use HopekellDev\LaravelWHMCS\Facades\Whmcs;
+use HopekellDev\LaravelWHMCS\Facades\WHMCS;
 
 // Example usage
-$clients = Whmcs::client()->getClients();
+$clients = WHMCS::getClients();
 ```
 # License
-This package is licensed under the MIT License - see the LICENSE file for details.
+This package is licensed under the MIT [![License](https://img.shields.io/packagist/l/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://github.com/hopekelldev/laravel_whmcs/blob/main/LICENSE)
+ - see the LICENSE file for details.
