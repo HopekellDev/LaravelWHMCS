@@ -2,6 +2,7 @@
 
 [![Latest Version](https://img.shields.io/packagist/v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravelwhmcs)
 [![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravelwhmcs)
+[![Installs](https://img.shields.io/packagist/dt/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravelwhmcs)
 [![License](https://img.shields.io/github/license/HopekellDev/laravelwhmcs.svg?style=flat-square)](https://github.com/HopekellDev/laravelwhmcs/blob/master/LICENSE)
 [![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-orange.svg?style=flat-square)](https://laravel.com)
