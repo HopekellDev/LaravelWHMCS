@@ -35,5 +35,5 @@ use HopekellDev\LaravelWHMCS\Facades\WHMCS;
 $clients = WHMCS::getClients();
 ```
 # License
-This package is licensed under the MIT [![License](https://img.shields.io/packagist/l/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://github.com/hopekelldev/laravelwhmcs/blob/main/LICENSE)
+This package is licensed under the MIT [![License](https://img.shields.io/github/license/HopekellDev/laravelwhmcs.svg?style=flat-square)](https://github.com/HopekellDev/laravelwhmcs/blob/master/LICENSE)
  - see the LICENSE file for details.
