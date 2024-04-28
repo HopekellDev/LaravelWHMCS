@@ -6,12 +6,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your@email.com"
+            "name": "Ezenwa Hopekell",
+            "email": "hopekelltech@gmail.com"
         }
     ],
     "require": {
-        "php": "^8.2",
+        "php": "^7.4|^8.2",
         "darthsoup/php-whmcs-api": "^1.0"
     },
     "autoload": {
