@@ -2,8 +2,9 @@
     "name": "hopekelldev/laravelwhmcs",
     "description": "A Laravel package for interacting with WHMCS API",
     "type": "library",
-    "keywords": ["laravel", "whmcs", "api"],
+    "keywords": ["laravel", "whmcs", "api","hopekelldev","Laravel WHMCS"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Ezenwa Hopekell",
@@ -11,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4|>=8.0",
         "darthsoup/php-whmcs-api": "^1.0"
     },
     "autoload": {
