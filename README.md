@@ -1,10 +1,10 @@
 # Laravel WHMCS
 
 [![Latest Version](https://img.shields.io/packagist/v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
-[![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
+[![Total Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://packagist.org/packages/hopekelldev/laravel_whmcs)
 [![License](https://img.shields.io/packagist/l/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://github.com/hopekelldev/laravel_whmcs/blob/main/LICENSE)
-[![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravel_whmcs.svg?style=flat-square)](https://php.net)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hopekelldev/LaravelWHMCS/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hopekelldev/LaravelWHMCS)
+[![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravelwhmcs.svg?style=flat-square)](https://php.net)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hopekelldev/laravelwhmcs/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hopekelldev/laravelwhmcs)
 
 
 A Laravel package for integrating with the WHMCS API.
