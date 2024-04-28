@@ -4,7 +4,7 @@
     "type": "library",
     "keywords": ["laravel", "whmcs", "api","hopekelldev","Laravel WHMCS"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Ezenwa Hopekell",
