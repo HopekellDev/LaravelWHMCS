@@ -1,8 +1,8 @@
 {
     "name": "hopekelldev/laravelwhmcs",
-    "description": "A Laravel package for interacting with WHMCS API",
+    "description": "A Laravel package for interacting with WHMCS API in Laravel 10",
     "type": "library",
-    "keywords": ["laravel", "whmcs", "api","hopekelldev","Laravel WHMCS"],
+    "keywords": ["laravel", "whmcs", "api","hopekelldev","Laravel WHMCS", "Laravel 10.x.x"],
     "license": "MIT",
     "version": "1.0.1",
     "authors": [

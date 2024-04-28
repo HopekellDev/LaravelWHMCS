@@ -7,7 +7,9 @@
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-orange.svg?style=flat-square)](https://laravel.com)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/laravelwhmcs/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/laravelwhmcs/)
 
-A Laravel package for integrating with the WHMCS API.
+A Laravel package for integrating with the WHMCS API in Laravel 10.
+This package has been tested in laravel 10 and it's compatible with it, It has not been tested with the current version of laravel. We will be working on improving it.
+You can are free to contribute to the project.
 
 ## Installation
 
