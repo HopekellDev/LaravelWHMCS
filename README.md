@@ -18,6 +18,22 @@ You can install the package via Composer:
 ```bash
 composer require hopekelldev/laravelwhmcs
 ```
+## Register your service provider:
+Add your service provider to the providers array in config/app.php:
+```bash
+'providers' => [
+    // Other Service Providers
+    HopekellDev\LaravelWHMCS\WHMCSServiceProvider::class,
+],
+```
+Add Aliases
+```bash
+'aliases' => [
+    // Other Aliases
+    'WHMCS' => HopekellDev\LaravelWHMCS\Facades\WHMCS::class,
+],
+```
+
 ## Publish the configuration file:
 
 ```bash
